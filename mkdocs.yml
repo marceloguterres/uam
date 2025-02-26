@@ -1,1 +1,6 @@
-site_name: Urban Air Mobility
+site_name: IT 214
+nav:
+  - Home: index.md
+  - Proposta Acadêmica:
+      - Fases: proposta.md
+  - Professor: bio.md
