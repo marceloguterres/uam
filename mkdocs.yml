@@ -1,9 +1,0 @@
-site_name: IT 214
-nav:
-  - Home: index.md
-  - Proposta Acadêmica: proposta.md
-  - Grupos: grupos.md 
-  - Avisos: avisos.md   
-  - Calendário: calendario.md   
-  - Professor: bio.md
-
