@@ -32,4 +32,4 @@
 
 📍 Cidade: Belo Horizonte
 
-🔗 Link github: 
+🔗 [Link github](https://lirucas.github.io/GrupoC/)

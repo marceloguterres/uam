@@ -1,34 +1,26 @@
 # My BIO
 
-Sou o Professor  Marcelo Xavier Guterres, Bolsista de Produtividade em Pesquisa do CNPq - Nível 2.  
-Atualmente, sou **Professor Associado II** no **Instituto Tecnológico de Aeronáutica (ITA)**. Minhas atividades incluem ensino e pesquisa nos seguintes programas acadêmicos:
+Sou o **Professor Marcelo Xavier Guterres**, Professor Associado II no **Instituto Tecnológico de Aeronáutica (ITA)** e **Bolsista de Produtividade em Pesquisa do CNPq - Nível 2**.
 
-* **Bacharelado em Engenharia Civil Aeronáutica**
-* **Mestrado e Doutorado em Engenharia de Infraestrutura Aeronáutica**
-* **Mestrado Profissional em Segurança de Aviação e Aeronavegabilidade Continuada**
+🔗 **Meu Lattes:** [http://lattes.cnpq.br/5229070595111885](http://lattes.cnpq.br/5229070595111885)  
 
-Além disso, coordeno uma **parceria interinstitucional entre o ITA e a Coursera**, empresa de tecnologia educacional norte-americana, fundada pelos professores Andrew Ng e Daphne Koller da Universidade Stanford. A **Coursera** é uma das principais plataformas globais de educação online.
-
-## Áreas de Atuação
-
-Minha experiência profissional abrange as áreas de **Engenharia Civil e Computação**, com ênfase em:
-
-* **Urban Air Mobility**
-* **Pesquisa Operacional**
-* **Simulação Computacional**
-* **Engenharia de Aeroportos e Tráfego Aéreo**
-* **Geoprocessamento**
-* **Estatística e Econometria**
-* **Ciência de Dados**
-
-## Principais Competências
-
-* **Análises Econométricas** utilizando **R** e **Gretl**
-* **Programação Avançada em R**, especializado em algoritmos de análise de dados e geoprocessamento
-* **Desenvolvimento de aplicativos web interativos e dinâmicos** em **R e Python**
-* **Proficiência em C++**
-* **Modelagem de dados** utilizando técnicas de **Machine Learning**
+🏛 **Minha página no ITA:** [https://www.civil.ita.br/pessoal/colaboradores/?Who=guterres](https://www.civil.ita.br/pessoal/colaboradores/?Who=guterres)
 
 
-*(Texto informado pelo autor.)*
+
+## 🎓 Formação Acadêmica
+
+- **Doutorado em Modelagem Computacional** (2010 - 2013)  
+  *Universidade do Estado do Rio de Janeiro (UERJ), Brasil*
+
+- **Mestrado em Engenharia de Infraestrutura Aeronáutica** (2000 - 2002)  
+  *Instituto Tecnológico de Aeronáutica (ITA), Brasil*
+
+- **Graduação em Engenharia Civil** (1994 - 1999)  
+  *Universidade Católica de Pelotas (UCPEL), Brasil*
+
+---
+
+📌 *Texto informado pelo autor.*
+
 
